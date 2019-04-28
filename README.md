@@ -9,3 +9,7 @@ https://sourceforge.net/projects/cdesktopenv/
 
 ![](https://raw.githubusercontent.com/spartrekus/Unix-motif-cde-desktop/master/cde-screenshot1.png)
 
+
+![](https://raw.githubusercontent.com/spartrekus/Unix-motif-cde-desktop/master/CDE-6.png)
+
+
